@@ -1,2 +1,2 @@
 # MyServer
-Test server for Devops assesment
+Test server for DevOps environment
